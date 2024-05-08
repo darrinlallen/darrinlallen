@@ -1,4 +1,5 @@
-<body style="background-color:black;">
+
+<body style="background-color: navy;">
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
@@ -71,3 +72,39 @@
 </div>
 
 <br/>
+
+<!-- Additional Section: Recent Activity -->
+<div align="center">
+  <h2>Recent Activity</h2>
+  <p>Display your recent GitHub activity here, such as recent commits, pull requests, or issues.</p>
+  <!-- You can use GitHub widgets or other embeddable elements to show your recent activity -->
+</div>
+
+<br/>
+
+<!-- Additional Section: Projects -->
+<div align="center">
+  <h2>Highlighted Projects</h2>
+  <p>Showcase some of your top projects here with brief descriptions and links to their repositories.</p>
+  <!-- You can list your projects with links and descriptions -->
+</div>
+
+<br/>
+
+<!-- Additional Section: Skills -->
+<div align="center">
+  <h2>Skills</h2>
+  <p>Provide a comprehensive list of your technical skills here.</p>
+  <!-- You can list your skills in various technologies or tools -->
+</div>
+
+<br/>
+
+<!-- Additional Section: Certifications -->
+<div align="center">
+  <h2>Certifications</h2>
+  <p>Highlight any relevant certifications or courses you've completed.</p>
+  <!-- You can list your certifications with details -->
+</div>
+
+</body>

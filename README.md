@@ -76,7 +76,7 @@
 <!-- Additional Section: Recent Activity -->
 <div align="center">
   <h2>Recent Activity</h2>
-  <p>Display your recent GitHub activity here, such as recent commits, pull requests, or issues.</p>
+  <p>I am finishing up at bloomtech.  I am in the computer science section.</p>
   <!-- You can use GitHub widgets or other embeddable elements to show your recent activity -->
 </div>
 
@@ -85,7 +85,7 @@
 <!-- Additional Section: Projects -->
 <div align="center">
   <h2>Highlighted Projects</h2>
-  <p>Showcase some of your top projects here with brief descriptions and links to their repositories.</p>
+  <p>I have some interesting android projects in my repository.  I am looking to start building artificial intelligence projects.</p>
   <!-- You can list your projects with links and descriptions -->
 </div>
 
@@ -94,7 +94,7 @@
 <!-- Additional Section: Skills -->
 <div align="center">
   <h2>Skills</h2>
-  <p>Provide a comprehensive list of your technical skills here.</p>
+  <p>I am a fullstack web developer.  In the future I plan to focus on artificial intelligence.</p>
   <!-- You can list your skills in various technologies or tools -->
 </div>
 
@@ -103,7 +103,7 @@
 <!-- Additional Section: Certifications -->
 <div align="center">
   <h2>Certifications</h2>
-  <p>Highlight any relevant certifications or courses you've completed.</p>
+  <p>I am certified in SQL.  I also have a google certification in technical support</p>
   <!-- You can list your certifications with details -->
 </div>
 

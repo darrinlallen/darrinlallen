@@ -16,7 +16,7 @@ is using artificial intelligence to enhance shopping experiences </h3>
  
  🔭 I’m currently working on an artificial intelligence shopping chatbot 
  
- 🌱 I’m currently learning **from bloomtech coding bootcamp**
+ 🌱 I’m currently learning **from bloomtech every where!!!!
 
 💬 Ask me about **Node.js, React, Firebase... html, css javascript**
 

@@ -20,7 +20,7 @@ is using artificial intelligence to enhance shopping experiences </h3>
 
 💬 Ask me about **Node.js, React, Firebase... html, css javascript**
 
-⚡ Fun fact **i took a vacation to Hong Kong**
+⚡ Fun fact ----i took a vacation to Hong Kong**
 
  </div>
  

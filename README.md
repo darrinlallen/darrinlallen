@@ -14,7 +14,7 @@ is using artificial intelligence to enhance shopping experiences </h3>
 
 <div align="center">
  
- 🔭 I’m currently working on an artificial intelligence shopping chatbot 
+ 🔭 I’m currently working on an artificial intelligence project
  
  🌱 I’m currently learning **from every where!!!!
 

@@ -16,7 +16,7 @@ is using artificial intelligence to enhance shopping experiences </h3>
  
  🔭 I’m currently working on an artificial intelligence project
  
- 🌱 I’m and learning from a fire hydrant!!!!
+ 🌱 and learning from a fire hydrant!!!!
 
 💬 Ask me about **Node.js, React, Firebase... html, css javascript**
 

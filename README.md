@@ -8,8 +8,7 @@
 </h1>
 
 <h3 align="center">A passionate software developer from America, my current project
-is using artificial intelligence to enhance shopping experiences.  Use artificial 
-intelligence to shop till you drop!!</h3>
+is using artificial intelligence to enhance shopping experiences </h3>
 
 <br/>
 

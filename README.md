@@ -9,7 +9,7 @@
 
 <h3 align="center">A passionate software developer from America, my current project
 is using artificial intelligence to enhance shopping experiences.  shop till you drop in the metaverse 
-and in real life!!!</h3>
+and in real life!!  What does AR/VR shopping look like? <\h3>
 
 <br/>
 

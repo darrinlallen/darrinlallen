@@ -6,11 +6,11 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+darrin+allen!;" />
 </h1>
-<a href="https://www.youtube.com/@Darrin-wd3sz"><img src="https://www.evbart.com/content/images/2024/10/078DE2D3-3275-4BF4-9156-13EB2099E37D.png"></a>
+
 <h3 align="center">A passionate software developer from America, my current project
 is using artificial intelligence to enhance shopping experiences.  shop till you drop in the metaverse 
 and in real life!!  What does AR/VR shopping look like? </h3>
-
+<a href="https://www.youtube.com/@Darrin-wd3sz"><img src="https://www.evbart.com/content/images/2024/10/078DE2D3-3275-4BF4-9156-13EB2099E37D.png"></a>
 <br/>
 
 <div align="center">

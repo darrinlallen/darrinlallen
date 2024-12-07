@@ -8,6 +8,11 @@
 </h1>
 
 
+    <iframe width="420" height="315" 
+    src="https://www.youtube.com/embed/pkQD6oIXVNw?autoplay=1&mute=1" 
+    frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
+    </iframe>
+
 <h3 align="center">A passionate software developer from America, my current project
 is using artificial intelligence to enhance shopping experiences.  shop till you drop in the metaverse 
 and in real life!!  What does AR/VR shopping look like? </h3>

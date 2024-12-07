@@ -9,6 +9,9 @@
 <iframe width="420" height="315"
 src="https://youtu.be/pkQD6oIXVNw?si=XtklRTSEA9PBp2xJ?autoplay=1&mute=1">
 </iframe>
+<iframe width="420" height="315"
+src="https://www.youtube.com/embed/tgbNymZ7vqY?autoplay=1&mute=1">
+</iframe>
 
 <h3 align="center">A passionate software developer from America, my current project
 is using artificial intelligence to enhance shopping experiences.  shop till you drop in the metaverse 

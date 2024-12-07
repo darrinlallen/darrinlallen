@@ -25,9 +25,7 @@ and in real life!!  What does AR/VR shopping look like? </h3>
 ⚡ Fun fact ----i took a vacation to Hong Kong**
          and also Jamaica
  </div>
- <iframe width="420" height="315"
-src="https://youtu.be/pkQD6oIXVNw?si=XtklRTSEA9PBp2xJ?autoplay=1&mute=1">
-</iframe>
+
 <div align="center"> 
   <a href="mailto:darrin.lovard.allen@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
@@ -80,7 +78,5 @@ src="https://youtu.be/pkQD6oIXVNw?si=XtklRTSEA9PBp2xJ?autoplay=1&mute=1">
 <div align="center">
  
 </div>
-<iframe width="420" height="315"
-src="https://youtu.be/pkQD6oIXVNw?si=XtklRTSEA9PBp2xJ?autoplay=1&mute=1">
-</iframe>
+
 </body>

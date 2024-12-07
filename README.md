@@ -10,16 +10,9 @@
     <strong>What does AR/VR shopping look like?</strong>
 </h3>
 
-<a href="https://www.youtube.com/@Darrin-wd3sz">
-    <img src="https://www.evbart.com/content/images/2024/10/078DE2D3-3275-4BF4-9156-13EB2099E37D.png" alt="YouTube Channel" width="200">
-</a>
+[![YouTube Video](https://img.youtube.com/vi/pkQD6oIXVNw/0.jpg)](https://www.youtube.com/watch?v=pkQD6oIXVNw)
 
-<br/>
-
-<iframe width="420" height="315" 
-    src="https://www.youtube.com/embed/pkQD6oIXVNw?autoplay=1&mute=1" 
-    frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
-</iframe>
+> Click the image above to watch my YouTube video!
 
 <br/><br/>
 
@@ -48,4 +41,12 @@
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https:/
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" />
+</div>
+
+---
+
+## 🐍 My Contributions
+
+<div align="center">
+  <im

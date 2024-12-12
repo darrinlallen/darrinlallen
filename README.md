@@ -10,9 +10,6 @@
     <strong>What does AR/VR shopping look like?</strong>
 </h3>
 
-[![YouTube Video](https://img.youtube.com/vi/pkQD6oIXVNw/0.jpg)](https://www.youtube.com/watch?v=pkQD6oIXVNw)
-
-> Click the image above to watch my YouTube video!
 
 <br/><br/>
 

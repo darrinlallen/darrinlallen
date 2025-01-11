@@ -14,8 +14,8 @@
 <br/><br/>
 
 - 🔭 I’m currently working on an artificial intelligence project .  contact me if 
-you want to partner to make an AI app that helps make a
-searchable video commercial database .  darrin.lovard.allen@gmail.com
+you want to partner to make an AI app that  makes a
+searchable video commercial advertisement database .  darrin.lovard.allen@gmail.com
 - 🌱 I’m learning from a fire hydrant!!!!  
 - 💬 Ask me about **Node.js, React, Firebase... HTML, CSS, JavaScript**  
 - ⚡ Fun fact: I took a vacation to **Hong Kong** and also **Jamaica**!

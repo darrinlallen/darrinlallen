@@ -5,7 +5,7 @@
 </h1>
 
 <h3 align="center">
-    Jan 2025...A passionate software developer from America, my current project is using artificial intelligence to enhance shopping experiences.<br>
+    A passionate software developer from America, my current project is using artificial intelligence to enhance shopping experiences.<br>
     
  </strong>
 </h3>

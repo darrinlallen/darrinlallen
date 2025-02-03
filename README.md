@@ -13,7 +13,8 @@
 
 <br/><br/>
 
-- 🔭 I’m currently working on an artificial intelligence project .  contact me if 
+- 🔭 I’m currently working on a social media platform built around television commercials.
+project .  contact me if 
 you want to partner to make an AI app that  makes a
 searchable video commercial advertisement database .
 this would be a netflix/youtube clone exclusively for tv commercials.   darrin.lovard.allen@gmail.com

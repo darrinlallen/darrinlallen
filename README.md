@@ -5,7 +5,7 @@
 </h1>
 
 <h3 align="center">
-    A passionate software developer from America, my current project is using artificial intelligence to enhance shopping experiences.<br>
+    A passionate software developer from America, my current project is using artificial intelligence to enhance shopping experiences. i am looking for partners <br>
     
  </strong>
 </h3>

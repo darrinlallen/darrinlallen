@@ -20,7 +20,7 @@ this would be a netflix/youtube clone exclusively for tv commercials.   business
 if you want to partner contact me here.  darrin.lovard.allen@gmail.com
 - 🌱 Ive got some other ideas also.  one idea is creating a business around free website creation .
 this would churn out free websites for anyone or anything .
-we would initially take donations .  artificial intelligence would do most of the work.
+we would initially take donations .  artificial intelligence would do most of the work. this would be a hyper competitive godaddy with a personal touch and customer service built around completed projects.
 
 I’m learning from a fire hydrant!!!!  
 - 💬 Ask me about **Node.js, React, Firebase... HTML, CSS, JavaScript**  

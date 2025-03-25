@@ -18,7 +18,11 @@ you want to partner to make an AI app that  makes a
 searchable video commercial advertisement database .
 this would be a netflix/youtube clone exclusively for tv commercials.   business model is to get companies to pay to upload commercials. this would also have a social media aspect to it. basically all your ads belong in my searchable database!! 
 if you want to partner contact me here.  darrin.lovard.allen@gmail.com
-- 🌱 I’m learning from a fire hydrant!!!!  
+- 🌱 Ive got some other ideas also.  one idea is creating a business around free website creation .
+this would churn out free websites for anyone or anything .
+we would initially take donations .  artificial intelligence would do most of the work.
+
+I’m learning from a fire hydrant!!!!  
 - 💬 Ask me about **Node.js, React, Firebase... HTML, CSS, JavaScript**  
 - ⚡ Fun fact: I took a vacation to **Hong Kong** and also **Jamaica**!
 

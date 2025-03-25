@@ -21,7 +21,7 @@ if you want to partner contact me here.  darrin.lovard.allen@gmail.com
 - 🌱 Ive got some other ideas also.  one idea is creating a business around free website creation .
 this would churn out free websites for anyone or anything .
 we would initially take donations .  artificial intelligence would do most of the work. this would be a hyper competitive godaddy with a personal touch and customer service built around completed projects.
-but the whole thing is free based on donations .  your own free web design studio.
+but the whole thing is free based on donations .  your own free web design studio.  As i think about this at 4am it could get quite elaborate .  requiring hefty fees for backend servers .  frontend would be simple!!!
 
 
 

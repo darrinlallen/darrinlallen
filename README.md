@@ -18,12 +18,7 @@ you want to partner to make an AI app that  makes a
 searchable video commercial advertisement database .
 this would be a netflix/youtube clone exclusively for tv commercials.   business model is to get companies to pay to upload commercials. this would also have a social media aspect to it. basically all your ads belong in my searchable database!! 
 if you want to partner contact me here.  darrin.lovard.allen@gmail.com
-- 🌱 Ive got some other ideas also.  one idea is creating a business around free website creation .
-this would churn out free websites for anyone or anything .
-we would initially take donations .  artificial intelligence would do most of the work. this would be a hyper competitive godaddy with a personal touch and customer service built around completed projects.
-but the whole thing is free based on donations .  your own free web design studio.  As i think about this at 4am it could get quite elaborate .  requiring hefty fees for backend servers .  frontend would be simple!!!
-
-
+- 🌱 Ive got some other ideas...
 
 I’m learning from a fire hydrant!!!!  
 - 💬 Ask me about **Node.js, React, Firebase... HTML, CSS, JavaScript**  

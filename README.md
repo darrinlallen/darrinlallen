@@ -13,7 +13,7 @@
 
 <br/><br/>
 
-- 🔭 I’m currently working on a social media platform built around television commercials.  contact me if 
+- 🔭 lets build the metaverse ..I’m currently working on a social media platform built around television commercials.  contact me if 
 you want to partner to make an AI app that  makes a
 searchable video commercial advertisement database .
 this would be a netflix/youtube clone exclusively for tv commercials.   business model is to get companies to pay to upload commercials. this would also have a social media aspect to it. basically all your ads belong in my searchable database!! 

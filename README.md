@@ -5,7 +5,7 @@
 </h1>
 
 <h3 align="center">
-    A passionate software developer from America, my current project is using artificial intelligence to enhance shopping experiences. i am looking for partners <br>
+    A passionate software developer from America, my current project is using artificial intelligence to enhance shopping experiences. i am looking for partners. i also have a metaverse app in its infancy<br>
     
  </strong>
 </h3>
@@ -13,10 +13,11 @@
 
 <br/><br/>
 
--  ..I’m currently working on a social media platform built around television commercials.  contact me if 
+-  ..I’m currently working on two projects 1)a social media platform built around television commercials.  contact me if 
 you want to partner to make an AI app that  makes a
 searchable video commercial advertisement database .
 this would be a netflix/youtube clone exclusively for tv commercials.   business model is to get companies to pay to upload commercials. this would also have a social media aspect to it. basically all your ads belong in my searchable database!! 
+2) very nascent stages of metaverse app
 if you want to partner contact me here.  darrin.lovard.allen@gmail.com
 - 🌱 Ive got some other ideas...
 

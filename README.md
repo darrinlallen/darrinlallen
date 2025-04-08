@@ -5,8 +5,7 @@
 </h1>
 
 <h3 align="center">
-    A passionate software developer from America, my current projects are 1) assembling a database of searchable tv commercials 2)
-). making a metaverse application <br>
+    A passionate software developer from America, currently planning a major metaverse application <br>
     
  </strong>
 </h3>

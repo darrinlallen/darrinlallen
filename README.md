@@ -5,7 +5,8 @@
 </h1>
 
 <h3 align="center">
-    A passionate software developer from America, my current project is using artificial intelligence to enhance shopping experiences. i am looking for partners. i also have a metaverse app in its infancy<br>
+    A passionate software developer from America, my current projects are 1) assembling a database of searchable tv commercials 2)
+). making a metaverse application <br>
     
  </strong>
 </h3>

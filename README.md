@@ -5,7 +5,7 @@
 </h1>
 
 <h3 align="center">
-    A passionate software developer from America, currently planning a major metaverse educational application <br>
+    A passionate software developer from America, currently planning a major metaverse educational experience application <br>
     
  </strong>
 </h3>

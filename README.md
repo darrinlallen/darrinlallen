@@ -16,7 +16,7 @@
 if you want to partner contact me here.  darrin.lovard.allen@gmail.com
 - 🌱 Ive got some other ideas...
 
-I’m learning from a fire hydrant!!!!  next stop is metaverse development 
+
 - 💬 Ask me about **Node.js, React, Firebase... HTML, CSS, JavaScript**  
 - ⚡ Fun fact: I took a vacation to **Hong Kong** and also **Jamaica**!
 

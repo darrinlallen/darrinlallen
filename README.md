@@ -5,7 +5,7 @@
 </h1>
 
 <h3 align="center">
-    A passionate software developer from America, currently planning a major Edtech metaverse company focused on STEM subjects <br>
+    A passionate software developer from America, currently planning a major Edtech metaverse company focused on astrophysics and STEM subjects <br>
     
  </strong>
 </h3>

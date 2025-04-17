@@ -5,7 +5,7 @@
 </h1>
 
 <h3 align="center">
-    Darrin is a passionate software developer from America, currently planning a major Edtech metaverse application focused on astronomy subjects and a database of tv commercials <br>
+    Darrin is a passionate software developer from America, currently planning a major Edtech metaverse application focused on astronomy subjects and a searchable database of tv commercials <br>
     
  </strong>
 </h3>

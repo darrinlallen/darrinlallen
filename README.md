@@ -18,7 +18,7 @@ if you want to partner contact me here.  darrin.lovard.allen@gmail.com
 
 
 - 💬 Ask me about **Node.js, React, Firebase... HTML, CSS, JavaScript**  
-- ⚡ Fun fact: I took a vacation to **Hong Kong**, Canada and Jamaica**!
+- ⚡ Fun fact: I took a vacation to **Hong Kong**, **Canada** and **Jamaica**!
 
 ---
 

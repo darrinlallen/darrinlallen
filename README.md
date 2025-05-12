@@ -6,7 +6,7 @@
 
 <h3 align="center">
     Darrin is a passionate software developer from America. currently working on artificial intelligence and 
-    android XR development also working on an educational metaverse application focused on astronomy subjects and also a searchable database of tv commercials to monopolize advertising revenue.  looking for technical and business cofounders !!<br>
+    android XR development also researching a educational metaverse application focused on astronomy subjects and also a searchable database of tv commercials to monopolize advertising revenue.  looking for technical and business cofounders !!<br>
     this would be a combination of ispot.tv , Netflix and YouTube 
  </strong>
 </h3>

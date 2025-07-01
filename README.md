@@ -5,8 +5,7 @@
 </h1>
 
 <h3 align="center">
-    Darrin is a passionate software developer from America. currently working on artificial intelligence and 
-    android XR development also researching metaverse content focused on various subjects.  my other project in the works is a searchable vector database of tv commercials to monopolize advertising revenue!!!  looking for technical and business cofounders !!<br>
+    Darrin is a passionate software developer from America. currently working on a searchable database of tv commercials to monopolize advertising revenue!!!  looking for technical and business cofounders !!<br>
     this would be a combination of ispot.tv and Netflix.
  </strong>
 </h3>

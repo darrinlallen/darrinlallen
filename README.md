@@ -6,7 +6,7 @@
 
 <h3 align="center">
     Darrin is a passionate software developer from America. currently working on android mobile applications. i am looking for technical and business cofounders !!<br>
-    this would be a combination of ispot.tv and Netflix.
+    
  </strong>
 </h3>
 

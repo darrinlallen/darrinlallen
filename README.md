@@ -5,7 +5,7 @@
 </h1>
 
 <h3 align="center">
-    Darrin is a passionate software developer from America. I am self learning artificial intelligence, this is a massive undertaking!!!currently working on android mobile applications. i am looking for technical and business cofounders !!<br>
+    Darrin is a passionate software developer from America. I am mixing artificial intelligence and android mobile development this is a massive undertaking !! i am looking for technical and business cofounders !!<br>
     
  </strong>
 </h3>

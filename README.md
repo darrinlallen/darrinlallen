@@ -5,7 +5,7 @@
 </h1>
 
 <h3 align="center">
-    Darrin is a passionate software developer from America. I am mixing artificial intelligence and software development, this is a massive undertaking !!  !!<br>
+    Darrin is a passionate software developer from America. visit my ADFLIX site under construction!!!<br>
     
  </strong>
 </h3>

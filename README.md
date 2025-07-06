@@ -5,7 +5,8 @@
 </h1>
 
 <h3 align="center">
-    Darrin is a passionate software developer from America. visit my ADFLIX site under construction!!!<br>
+    Darrin is a passionate software developer from America. visit my ADFLIX site under construction!!!<
+      <br>
     
  </strong>
 </h3>
